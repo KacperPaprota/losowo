@@ -2,7 +2,8 @@ body {
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
     background-color: #f8f9fa;
-    color: #333;
+    color: white;
+    background-color: #00000A;
 }
 
 header h1 {
